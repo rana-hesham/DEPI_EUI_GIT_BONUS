@@ -18,7 +18,6 @@ go to shell and clone the repo:
         fetch = +refs/heads/*:refs/remotes/origin/*
         url = git@github.com:rana-hesham/DEPI_EUI_GIT_TASK2.git
         url = git@github.com:rana-hesham/EUI_tasks.git
-
 ```
 
 - git checkout -b multiplepush_branch
