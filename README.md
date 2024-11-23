@@ -10,7 +10,7 @@ go to shell and clone the repo:
 - git clone git@github.com:rana-hesham/DEPI_EUI_GIT_BONUS.git
 - vim DEPI_EUI_GIT_BONUS/.git/config
 
-* Add the two other repos to it in [remote "origin"]**
+**Add the two other repos to it in [remote "origin"]**
 
 ```
 [remote "origin"]
@@ -27,7 +27,7 @@ go to shell and clone the repo:
 - git commit -m "Multi-repo push"
 - git push origin multiplepush_branch
 
-Results 
+## Results 
 
 ![image](https://github.com/user-attachments/assets/f5588e40-3ea6-479d-97be-a8a1b32fc56a)
 
